@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "36bdd95338975693",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7b7f17be71793f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adaa947a7e844c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sql injection/port swigger lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d872a1747d3a753",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5c943a5f048249a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d26b309b124e42f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59e5ebd8630f91ec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd38b3f89cc5e636",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5ad160b9c5dc745",
+    "type": "split",
+    "children": [
+      {
+        "id": "f44600b6bbc11b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8169446731f01c35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sql injection/port swigger lab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a04d812a1793cfa0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sql injection/port swigger lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "35ea417626fbf0d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "29582bea8a4b117c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sql injection/port swigger lab.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "adaa947a7e844c95",
+  "lastOpenFiles": [
+    "Bagel/Summary.md",
+    "Bagel",
+    "stocker/Summary.md",
+    "root 1.png",
+    "user.png",
+    "loginpass.png",
+    "stocker",
+    "Pickle Rick Writeup/Summary.md",
+    "metatwo/summary.md",
+    "root.png",
+    "testenum.png",
+    "useragain.png",
+    "hash.png",
+    "access.png",
+    "cve.png",
+    "enum1.png",
+    "Symfonos2 Writeup/writeup.md",
+    "Symfonos2 Writeup/Summary.md",
+    "PostgresSQL/PostgresSQL command.md",
+    "Crossroad Writeup/Write Up.md",
+    "Crossroad Writeup/Summary.md",
+    "happycorp Writeup/Summary.md",
+    "happycorp Writeup/Write up.md",
+    "metatwo",
+    "wp-scan/Summary.md",
+    "Precious Writeup/Write Up.md",
+    "Precious Writeup/Summary.md",
+    "The Scoccer/Write Up ( My very first box ).md",
+    "Precious Writeup",
+    "The Scoccer",
+    "sql injection/port swigger lab.md",
+    "window_ccp_200/Write Up.md",
+    "window_ccp_200/Notes.md",
+    "XSS/best payload for xss.md",
+    "File Inclusion/File Inclusion Commands.md",
+    "IDOR/Notes.md",
+    "IDOR",
+    "window-sp2/Write up.md",
+    "sql injection/sqlmap.md",
+    "sql injection/Union Base.md"
+  ]
+}
